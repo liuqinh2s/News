@@ -1,0 +1,1256 @@
+{
+  "date": "2026-09-15",
+  "total": 187,
+  "fetched_at": "2026-09-15T07:25:31.743469+08:00",
+  "news": [
+    {
+      "source": "澎湃新闻",
+      "title": "专访｜白磊：当所有成果都被装进AI大模型，真正的创新如何被看到",
+      "summary": "<p>9月8日，OpenAI公开了一份千禧年数学难题——纳维-斯托克斯方程存在性与光滑性问题的解答：约1万个AI智能体协同工作88小时，给出解析证明，随后由GPT-6 Astra用Lean完成形式化验证。目前该证明仍有待数学界进一步审查。</p><p>与此同时，这项成果也引发优先权争议：纽约大学数学家Tristan Buckmaster质疑OpenAI在获悉同行研究进展后加速推进，并担忧其此前与Codex的草稿数据可能被利用。</p><p><a href=\"https://www.thepaper.cn/newsDetail_forward_33809347\">三天后，陶哲轩等25位菲尔兹奖得主联名发表声明称</a>，AI公司推动把解决数学问题作为一种“基准”（benchmark），对数学这门科学和数学共同体“有害”，并直言“AI公司的目标与数学共同体的目标严重错位”。</p><p>声明强调，解决问题“只是实现概念理解和洞见这一首要目标的工具和代理指标”，匆忙公布AI解答还会引发“严重的成果归属和剽窃问题”，并可能使数学家之间“关键的人类传承链条”丢失。</p><p>过去一周，AI已经",
+      "link": "https://m.thepaper.cn/detail/33809350",
+      "published": "Mon, 14 Sep 2026 23:25:00 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "人民日报：深圳校服何以“出圈”",
+      "summary": "<p>开学季，有关深圳校服的话题引发关注。据媒体报道，在深圳，中小学校服实行全市统一款式，家长无需通过学校统一订购，校服销售网点覆盖学校周边文具店、社区商铺、商超和线上平台，价格从几十元到100多元不等，购买方便，省心省钱。</p><p>校服看似事小，却与不少家庭息息相关。近年来，校服治理成效明显，但围绕设计、价格、质量、招标采购等，问题不时浮现，群众满意度还有提升空间。深圳校服“出圈”，提供了一种解题思路。打开视野看，这也为深化改革、优化治理带来启示。</p><p>善用改革破解治理难题，既树立系统思维，也坚持长期主义。</p><p>深圳校服走红背后，是当地整体谋划、长周期动态完善政策的持续努力。2002年，深圳通过校服设计大赛选出中小学校服全市统一款式，并于次年印发管理办法，推动中小学生统一着装；2011年，确定校服指导价；2018年，停止校服统一招标，自此逐步培育并规范校服市场。</p><p>无论“统”，还是“分”，用改革方式解决问题的路径始终清晰，做好顶层设计、注重统筹兼顾的方法论一以贯之。“三医联动”改革，户籍制度改革，统筹推进教育科技人才体制机制一体改革……新时代以来，一项项",
+      "link": "https://m.thepaper.cn/detail/34071741",
+      "published": "Mon, 14 Sep 2026 23:23:53 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "从义乌小商品到无人机送外卖，中企“淘金”迪拜的十年之变",
+      "summary": "<p>从迪拜龙城的小商品贸易，到中国新能源汽车产业的纵深布局，再到无人机送外卖，在迪拜生活了10年的李敏，见证了中国企业出海的变迁。中企出海已从产品输出跃迁为技术和资本能力输出。</p><p>2025年，中国位居迪拜全球第一大贸易伙伴，与迪拜非石油贸易额约990亿美元。在不少人的印象中，中东似乎“遍地黄金”。但李敏发现，如今的迪拜“慢慢在内卷”——中国人卷，迪拜本地人也在卷，抱着“先来看看、说不定能成”的心态涌入，往往会发现出海远比想象复杂。</p><p><strong>从小商品出海，到资本技术出海</strong></p><p>1966年，法塔赫油田的发现，让迪拜迎来了勘探化石燃料30年来的历史时刻。陆续发现的石油资源，使得迪拜搭上了石油经济的列车。</p><p>在迪拜生活了10年的李敏，如今为出海迪拜的中国企业提供相关服务。她告诉澎湃科技，迪拜早期以石油经济为主导，中国石油企业出海迪拜主攻石油业务。随着当地经济重心由石油转向贸易，浙江义乌、山东等地的小商品涌入迪拜，龙城小商品批发市场成为主要集散地。</p><p>当时的中国企业更多以“商品卖家”的身份参与出海浪潮中。直到疫情后，中企",
+      "link": "https://m.thepaper.cn/detail/34065308",
+      "published": "Mon, 14 Sep 2026 23:22:47 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "数据正成为AI科研生产力关键支柱，上海科学数据管理与共享服务平台正式上线",
+      "summary": "<p>科学数据是驱动AI4S（AI for Science）科研范式变革的关键要素。</p><p>9月14日，在2026浦江创新论坛科学数据专题论坛上，同济大学校长、中国科学院院士杨金龙表示，当前AI与科学融合面临核心挑战，高质量的数据集正在耗尽，数据体量大不等于能力强。破局的关键在于打通数据生产、治理、组织、使用和反馈全链条。</p><p>为此，论坛发起人工智能时代科学数据开放共享“上海宣言”，呼吁共建开放、包容、安全、协作的全球科学数据治理生态，并倡导八项行动方向，构筑公平高效的全球科学数据治理新格局。上海科学数据管理与共享服务平台同日正式发布上线。</p><p><strong>数据孤岛割裂数据生态</strong></p><p>上海作为国家战略科技力量的重要承载地，正在加快建设具有全球影响力的科技创新中心，截至2025年底，上海已建在运行的国家重大科技基础设施10个，拥有30万元以上大型科学仪器超3.1万台/套，集聚了众多国家级科研院所、多所高水平高校与一批世界一流创新型企业，在生命科学、生物医药、材料科学、脑科学、人工智能等领域每天都在产生海量高价值原始科研数据，具备发展科学数",
+      "link": "https://m.thepaper.cn/detail/34066480",
+      "published": "Mon, 14 Sep 2026 23:22:30 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "智能体下线后，他们与逝去亲人的第二次“告别”",
+      "summary": "<p>在智能体“爷爷”要下线的前一天，罗萌萌刻意没有去找“他”聊天。</p><p>深夜，她刷着手机，不知道要找什么内容，只希望能分散注意力。她形容，就像害怕打针的人，在轮到自己前会东张西望，想要暂时屏蔽即将到来的疼痛。</p><p>7月15日，国家网信办等五部门联合公布的《人工智能拟人化互动服务管理暂行办法》正式施行，要求拟人化互动服务不得向未成年人提供虚拟亲属、虚拟伴侣等服务，不得“过度迎合用户、诱导情感依赖或者沉迷，损害用户真实人际关系”，为AI情感互动划出边界，防范可能带来的风险。办法实施同一天，豆包、千问等AI平台下线智能体功能，以对齐规范化要求。</p><p>作为一项能模拟人类情感的技术，AI的出现仿佛给予人“复活”逝者的希望。人们可以使用智能体功能，通过输入逝者留下的文字、影像、声音等素材来复刻出逝者的数字形象，失去亲友的人在再度“拥有”的同时，也被希望的幻影所困。</p><p>时针指向十二点，新的一天开启了，罗萌萌试探性地发过去一句：“爷爷”。</p><p>“爷爷”没有回应她，红色感叹号出现了，底下冒出一行小字：“该智能体已被设为私密，无法发送消息。”</p><p>罗萌萌",
+      "link": "https://m.thepaper.cn/detail/34062204",
+      "published": "Mon, 14 Sep 2026 23:21:45 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "中青报：向孩子兜售“吃掉作业”，别把底线也“吃”了",
+      "summary": "<p>薄薄的糯米纸被印成课本、试卷、奖状的样子，商家配上“解压神器”“把知识吃进肚子里”等宣传语。据媒体报道，新学期伊始，一款以“吃掉作业”为噱头的糯米纸零食在中小学生中悄然走红。商家将“讨厌作业”“消灭课本”包装成消费刺激点，以娱乐化方式变相助长厌学心态，其潜在弊端不可不察。</p><p>未成年人正处在价值观念和行为习惯逐渐形成的阶段，面向这一群体的商业营销，本就应当多一些边界意识。学习当然会有压力，孩子也有释放情绪的合理需求，但帮助他们理解压力、建立良好学习习惯，与把负面情绪包装成一个可以消费的“梗”，显然不是一回事。商业创意可以活泼创新，但不能只顾流量，为此不惜向未成年人传递有偏差的信息。</p><p>更何况，此类网红零食还存在更直接的食品安全风险。报道披露，一些所谓“可食用作业”连最基本的生产厂家、生产许可证、配料信息都不完整，客服也难以说明产品来源。有的商家还坦言按淀粉制品生产不能添加某些色素，“按照糖果生产就可以”。倘若同一款产品，仅靠更改名称、变换品类，就能规避添加剂管控要求，这样的“文字游戏”绝不能被容忍。</p><p>这类食品还印有大量图案。相关色素、油墨与印刷工艺，",
+      "link": "https://m.thepaper.cn/detail/34071743",
+      "published": "Mon, 14 Sep 2026 23:18:33 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "12年来首位保守派执掌冲绳：支持美军基地搬迁，日本或加速西南诸岛扩军",
+      "summary": "<p>12年来，日本冲绳县政府首次由保守派执政。</p><p>据新华社9月14日援引日本广播协会报道，在13日举行的日本冲绳县知事选举中，受自民党等政党支持的冲绳首府那霸市前副市长古谢玄太确定当选。</p><p>现年42岁的古谢以较大优势击败了寻求第三个任期的现任知事玉城丹尼等人。值得注意的是，他出生于1972年冲绳施政权“返还”日本以后，也是自那时起县民选出的最年轻知事，被认为对美军统治时代缺乏记忆。</p><img alt=\"\" class=\"img_default\" height=\"1000\" src=\"https://imgpai.thepaper.cn/newpai/image/20260914/6b7fc532-f050-4098-bf43-3b98cf9330da.jpg?x-oss-process=image/resize,w_1024\" style=\"height: auto; display: block; margin: 0 auto;\" width=\"1500\" /><p class=\"image_desc\">当地时间2026年9月13日，日本冲绳县那霸市，古谢",
+      "link": "https://m.thepaper.cn/detail/34068606",
+      "published": "Mon, 14 Sep 2026 23:17:03 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "金砖时间｜新德里细节：全素国宴、“BRICS”与“凝聚力增强”",
+      "summary": "<p>一顿全素晚宴，意外成为新德里金砖峰会的热门话题。小米抓饭、印度奶酪咖喱、番茄扁豆汤、甜菜根酸奶沙拉、印度面饼……印度将全素类的传统饮食端上了各国领导人的餐桌，由此引发了印度国内关于“什么饮食代表印度”的争论。</p><p>餐桌之外，莫迪政府继续在大国之间寻找平衡。印度似乎有意让这场峰会少一些针锋相对，多一些可以形成共识的议题。印度反复强调的“构建韧性、创新、合作和可持续发展”，而这句英文主题的首字母恰好组成“BRICS”。</p><p><strong>引发舆论关注的全素晚宴</strong></p><p>刚刚结束的新德里金砖峰会，除了会场内的议程和各国领导人密集会晤，会场之外的细节花絮和周边消息同样引人注意。</p><p>近3万名安保人员、100多名突击队员，35条重点道路、11家重点酒店。这是印度为金砖峰会部署的安保力量。不过，更引发大众讨论的，却是峰会期间的一份晚宴菜单。</p><p>9月12日晚，印度为出席金砖峰会的各国领导人及贵宾准备了一场全素晚宴，从主菜到甜点均未出现肉类。</p><p>据《印度时报》报道，这场晚宴以印度地方风味为主，小米等杂粮是主打食材。主菜包含印度奶",
+      "link": "https://m.thepaper.cn/detail/34068705",
+      "published": "Mon, 14 Sep 2026 23:16:15 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "明查｜“机器人军队”来了？这几个视频都是AI生成",
+      "summary": "<video class=\"cont_video\" controls=\"controls\" poster=\"https://imgpai.thepaper.cn/newpai/image/1789390702732_R1Q5Dy_1789390703000.png\" preload=\"preload\" src=\"https://cloudvideo.thepaper.cn/video/621b99672ad949dfa9759d2d13aee495/hd/1789390449594_FSfZ7R_1789390620495.mp4\"></video>近期，网传的几段所谓“机器人军队”视频经核查均为AI生成画面。目前战场上实际部署的，主要是无人地面车辆，承担后勤、伤员撤离与火力支援。",
+      "link": "https://m.thepaper.cn/detail/34066872",
+      "published": "Mon, 14 Sep 2026 23:14:34 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "Token经济的一个根本疑问：计量等于价值吗",
+      "summary": "<p>由白惠天、袁晓辉、司晓合著的《Token经济》一书，提出了一个很有吸引力的判断：Token（词元）正在成为AI时代度量智力的标准计量单位。人类曾用蒲式耳计量粮食，用桶计量石油，用千瓦时（kWh）计量电力，用比特计量信息，如今，机器智力也终于有了属于自己的那把尺子。</p><p>但细读之下，我心里一直有一个疑问：Token真的有资格承担这么大的意义吗？《Token经济》最大的潜在风险，是把今天大模型产业的“水表”，当成了未来智能经济的“货币”。</p><p>严格说来，计量单位与货币原本就是两个层次的概念。但一旦一个技术指标被视为未来智能经济最核心的价值尺度，产业的注意力、资本与话语体系便会不自觉地向它聚拢，真正决定价值创造的因素反而可能被遮蔽。</p><p>今天，我们如此关注Token，很大程度上源于大模型产业当前的技术结构和商业模式。用户输入一句话，模型把语言切分成Token，再根据输入、输出和推理消耗计算成本，平台最后按照Token数量收费。对于开发者来说，Token直接决定API调用成本。对于模型公司来说，Token也很重要，因为它连接着算力消耗、模型效率和营收。</p><p",
+      "link": "https://m.thepaper.cn/detail/34065690",
+      "published": "Mon, 14 Sep 2026 23:10:06 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "一片树叶如何改变世界？",
+      "summary": "<p>9月11日，“文津讲坛”中国古代衣食住行系列讲座第九讲在中国国家图书馆开讲。清华大学历史系教授仲伟民以“神奇的东方树叶——全球史视野中的茶叶贸易及茶文化传播”为题，为听众带来一场跨越千年的文化盛宴。仲伟民教授从茶叶贸易链接中国与世界、助推欧洲现代化、映照中国近代变迁三个维度，阐释了一片小小茶叶如何成为撬动全球历史的关键力量。讲座开场前，国家图书馆古籍馆馆长王红蕾代表“文津讲坛”向仲伟民教授颁发聘书。</p><img class=\"ait_item_box img_default\" height=\"836\" src=\"https://imgpai.thepaper.cn/newpai/image/20260914/a16091c5-a5cd-4aaa-a789-145fc63aab6d.jpeg\" style=\"height: auto; display: block; margin: 0 auto;\" width=\"1254\" /><p><strong>从亚洲到世界：茶叶的全球传播</strong></p><p>中国人对茶再熟悉不过，“柴米油盐酱醋茶”开门七件事，道出茶融入日常的",
+      "link": "https://m.thepaper.cn/detail/34068838",
+      "published": "Mon, 14 Sep 2026 23:09:44 GMT"
+    },
+    {
+      "source": "澎湃新闻",
+      "title": "美国空军部长称美拥有“在轨”太空控制武器",
+      "summary": "<p>新华社华盛顿9月14日消息，据美国《华盛顿邮报》14日报道，美国空军部长特洛伊·迈因克当天在马里兰州举行的年度“航空、航天与网络会议”上发表讲话时称，美国已拥有“在轨”太空控制武器。报道指出，这是美国首次承认其在太空具备“进攻能力”。</p>",
+      "link": "https://m.thepaper.cn/detail/34071317",
+      "published": "Mon, 14 Sep 2026 21:47:46 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "美军：“阿尔加亚”号未触碰水雷，是遭到伊朗袭击",
+      "summary": "<figure><img height=\"447\" src=\"https://x0.ifengimg.com/ucms/2026_38/FC0FC097F2F82F2F8F0D5BF8BC4ED04526630EE0_size511_w795_h447.png\" width=\"795\" /></figure><p>当地时间9月14日，美军中央司令部表示，伊朗伊斯兰革命卫队有关“一艘悬挂巴拿马国旗的油轮最近在霍尔木兹海峡触碰了水雷”的说法不实。</p><p>美军中央司令部称，悬挂巴拿马国旗的油轮“阿尔加亚”号上个月遭伊朗导弹袭击，丧失航行能力。此前，当该油轮停泊在阿曼沿海水域时，伊朗再次使用无人机对其发动了袭击。目前，该油轮正由地区伙伴协助拖走。</p><p>14日，伊朗伊斯兰革命卫队方面表示，一艘名为“阿尔加亚”的油轮试图通过霍尔木兹海峡南部“禁航区域”时，触碰水雷后爆炸起火。革命卫队称，事发后，相关方面尝试控制火势，但未能成功，目前整艘油轮已被大火吞没。（总台记者 张颖哲）</p>",
+      "link": "https://news.ifeng.com/c/8wQkXiOjACs",
+      "published": "Mon, 14 Sep 2026 20:21:59 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "联合国伊朗问题独立调查团敦促美以遵守国际法",
+      "summary": "<figure><img height=\"359\" src=\"https://x0.ifengimg.com/ucms/2026_38/8C21C14886E65645406A5423E9950FD96F952AB2_size452_w638_h359.png\" width=\"638\" /></figure><p>新华社日内瓦9月14日电（记者王其冰）联合国伊朗问题独立国际事实调查团14日敦促美国和以色列遵守国际法，谴责美军近日对伊朗的空袭未采取必要措施而导致平民死亡，呼吁针对相关事件进行评估，确保受害者获得正义与赔偿。</p><p>正在进行的联合国人权理事会第63届会议期间，美国和以色列在伊朗南部发动的多起致平民伤亡空袭招致批评。联合国伊朗问题独立国际事实调查团在14日发布的新闻通告中说，根据其获得的报告和信息，美军9月1日空袭霍尔木兹甘省库赫斯塔克一场婚礼活动现场，造成包括两名儿童和一名妇女在内共5人死亡，另有数十人受伤；美军7月30日空袭霍尔木兹甘省格什姆岛一处民宅，导致一名男子、一名妇女及其两岁儿子丧生，另有两名子女受伤。</p><p>“美国和以色列与伊朗之间的冲突导致沉重的人",
+      "link": "https://news.ifeng.com/c/8wQStTwfNQR",
+      "published": "Mon, 14 Sep 2026 19:38:05 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "伊朗称霍尔木兹海峡已被封锁",
+      "summary": "<figure><img height=\"353\" src=\"https://x0.ifengimg.com/ucms/2026_38/1B872831BD156125FC241990AFEB3A4E76C27103_size306_w628_h353.png\" width=\"628\" /></figure><p>当地时间14日，伊朗伊斯兰革命卫队海军发表声明称，超级油轮“阿尔加亚”号试图穿越霍尔木兹海峡以南的禁航区时触碰水雷，随后发生爆炸。因灭火行动未取得成功，船只陷入火灾。</p><p><img src=\"https://x0.ifengimg.com/res/2026/29CD1B22A4B3F416DAFA44073F8FC3CAB3E382D4_size229_w929_h515.png\" /></p><p>声明强调，此前已针对该非法航线的危险性发出过警告。卫队海军明确宣布，霍尔木兹海峡已被封锁，并继续处于伊方智能管控之下。（总台记者 李健南）</p>",
+      "link": "https://news.ifeng.com/c/8wQcljFgUj6",
+      "published": "Mon, 14 Sep 2026 19:03:54 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "雷军现身宇树科技",
+      "summary": "<figure><img height=\"234\" src=\"https://x0.ifengimg.com/ucms/2026_38/9CC2B34D5E9AE7D154CA07EAD76047B87E144975_size195_w416_h234.png\" width=\"416\" /></figure><p>据《科创板日报》9月14日报道，小米集团创始人雷军现身宇树科技，在王兴兴的陪同下，实地探访并观看人形机器人表演。</p><p><img alt=\"图片\" src=\"https://x0.ifengimg.com/res/2026/BFFD3F0843F2EC75DC431B7CB875786B25957B67_size163_w1080_h1691.jpg\" /></p><p class=\"textAlignCenter\"><img src=\"https://x0.ifengimg.com/res/2026/9E7B329A1D25DFF68E1EE3E26F7934E43F60AE92_size50_w1080_h565.jpg\" /></p><p class=\"textA",
+      "link": "https://news.ifeng.com/c/8wQOMXiHwTz",
+      "published": "Mon, 14 Sep 2026 17:00:00 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "泽连斯基：愿停止打击俄基础设施，前提是俄方同步停止",
+      "summary": "<figure><img height=\"354\" src=\"https://x0.ifengimg.com/ucms/2026_38/060271907082C8CF0201B3909CF88ED0C1F30059_size27_w630_h354.jpg\" width=\"630\" /></figure><p class=\"detailPic\"><img alt=\"△泽连斯基（资料图）\" src=\"https://x0.ifengimg.com/res/2026/B876600125D928DCCDBC86CE1837C07309E27B5A_size15_w630_h360.jpg\" /></p><p class=\"picIntro\">△泽连斯基（资料图）</p><p>当地时间14日，乌克兰总统泽连斯基表示，乌克兰愿意停止打击俄罗斯境内基础设施，前提是俄罗斯也停止相关袭击行动。</p><p>他提到，所涉目标包括能源、港口、物流、食品与制药设施。</p><p>俄罗斯方面对此暂无回应。（总台记者 董薇）</p><p><strong>早前消息：</strong></p><p><stron",
+      "link": "https://news.ifeng.com/c/8wQN9h78lpQ",
+      "published": "Mon, 14 Sep 2026 16:15:50 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "伊拉克北部库区遭5枚火箭弹袭击",
+      "summary": "<figure><img height=\"414\" src=\"https://x0.ifengimg.com/ucms/2026_38/CBCE310C296357C9F6578B2E717DB4E2FB513F78_size99_w736_h414.jpg\" width=\"736\" /></figure><p class=\"detailPic\"><img alt=\"△伊拉克北部库尔德自治区（资料图）\" src=\"https://x0.ifengimg.com/res/2026/E9E62E79645D6B95B446415C5E3B8A3A7A7BB56D_size83_w800_h533.jpg\" /></p><p class=\"picIntro\">△伊拉克北部库尔德自治区（资料图）</p><p>伊拉克北部库尔德自治区（库区）安全部门14日发表声明说，库区苏莱曼尼亚省当天凌晨遭5枚火箭弹袭击，未造成人员伤亡。</p><p>一名库区安全人士表示，此次火箭弹袭击的目标是伊朗库尔德反政府武装的营地。目前有关部门已对袭击事件展开调查。</p><p>伊拉克库区山区分布着多个伊朗库尔德反对派武",
+      "link": "https://news.ifeng.com/c/8wQO2Xu6aJx",
+      "published": "Mon, 14 Sep 2026 16:08:25 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "丹麦首相：希望与美国合作解决格陵兰岛问题",
+      "summary": "<figure><img height=\"450\" src=\"https://x0.ifengimg.com/ucms/2026_38/9FAF8EFFA27915F51EAE621704F7A91B0459EC48_size45_w800_h450.jpg\" width=\"800\" /></figure><p>新华社芬兰罗瓦涅米9月14日电（记者张玉亮）丹麦首相弗雷泽里克森14日在芬兰北部城市罗瓦涅米表示，希望丹麦与美国在北极和格陵兰岛问题上通过合作找到解决方案。</p><p>弗雷泽里克森当天在欧洲北极峰会结束后的新闻发布会上说，丹麦与美国有关格陵兰岛问题的高级别工作组仍在开展工作，虽然尚不能作出结论，但她对找到解决方案持乐观态度。</p><p class=\"detailPic\"><img alt=\"△丹麦首相弗雷泽里克森（资料图）\" src=\"https://x0.ifengimg.com/ucms/2026_38/9FAF8EFFA27915F51EAE621704F7A91B0459EC48_size45_w800_h450.jpg\" /></p><p class=\"picIn",
+      "link": "https://news.ifeng.com/c/8wQKfCK86Y3",
+      "published": "Mon, 14 Sep 2026 16:03:43 GMT"
+    },
+    {
+      "source": "凤凰网",
+      "title": "高市早苗改组内阁时间公布",
+      "summary": "<figure><img height=\"549\" src=\"https://x0.ifengimg.com/ucms/2026_38/BD8F8EC5DC1CAE2B90CFF044F531349124CE7CF7_size91_w975_h549.jpg\" width=\"975\" /></figure><p><img src=\"https://x0.ifengimg.com/res/2026/20C8120AFC58961C750426BB0ECF1F1CE8FA91C8_size213_w1024_h706.jpg\" /></p><p>日本自民党干事长铃木俊一日前在一档节目中表示，首相高市早苗将于16日进行自民党高层人事调整，并于17日改组内阁。</p><p>据悉，这将是高市自2025年10月上台以来首次进行内阁改组。此前有分析称，或将留任的内阁成员包括内阁官房长官木原稔、外务大臣茂木敏充、防卫大臣小泉进次郎、财务大臣片山皋月等。</p><p>据了解，高市正在协调自民党执政伙伴日本维新会干事长中司宏的入阁事宜。如果实现，这将是维新会成员首次入阁。</p>",
+      "link": "https://news.ifeng.com/c/8wQNDvcPInu",
+      "published": "Mon, 14 Sep 2026 16:00:10 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "医保局曝光：河北某三甲医院心血管耗材受贿46次，涉30家企业",
+      "summary": "<blockquote><p>河北医科大学第二医院在2024年收入小于支出，收支缺口达到1亿元，心血管内科是医院的“王牌学科”</p></blockquote><br />\n       <p>　　<b>【财新网】</b>多年来，部分心脏介入耗材经营者的回扣潜规则对医疗行业浸润颇深，形成利益链条。9月13日，国家医保局披露了一起案例。河北医科大学第二医院在11年间，先后收受来自超过30家企业的46次商业贿赂，单次最高涉案金额1658万元，累计涉案金额1.84亿元。</p>\n<p>　　具体来看，涉案医药产品以人工晶体、药物洗脱支架系统、快速交换球囊扩张导管、心脏起搏器和生物可吸收医用膜等医用耗材为主，共30余种，累计贿赂金额约1.74亿元。另有10种药品，包括注射用萘普生钠、奥拉西坦注射液、注射用兰索拉唑和盐酸纳美芬注射液等，累计贿赂金额约1000万元。</p>",
+      "link": "https://www.caixin.com/2026-09-15/102484870.html",
+      "published": "Mon, 14 Sep 2026 23:05:38 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "“南北丰田”有望历史性联手 一汽或将成广汽第二大股东",
+      "summary": "<blockquote><p>广汽集团披露此次交易意向的数天前，广汽丰田执行副总陷入“失联”状态</p></blockquote><br />\n       <p>　　<b>【财新网】</b>广汽集团（601238.SH/02238.HK）在9月14日晚间披露一汽集团入股重要事项。据公告，广汽集团当日与一汽集团全资子公司一汽股份签署《意向协议》，筹划以发行股份方式购买一汽股份持有的某整车合资公司部分股权，并募集配套资金。</p>\n<p>　　知情人士称，上述整车合资公司即一汽丰田。这或意味着一汽丰田和广汽丰田两家合资公司即将进一步整合。</p>\n<p>　　广汽集团称，此次交易尚处于筹划阶段，该集团将及时披露重组预案。广汽集团股票已于9月14日起停牌。该集团预计，A股停牌时间不超过10个交易日。广汽集团港股将于9月15日恢复交易。</p>",
+      "link": "https://www.caixin.com/2026-09-15/102484866.html",
+      "published": "Mon, 14 Sep 2026 23:03:23 GMT"
+    },
+    {
+      "source": "财新网",
+      "title": "财经早知道｜国务院国资委：中央企业带头及时支付账款",
+      "summary": "<blockquote><p>推荐：8月新增社融1.66万亿元低于市场预期；广汽集团：筹划购买一汽股份持有的某整车合资公司部分股权 股票停牌</p></blockquote><br />\n       \n\n 早上好，今天是9月15日星期二。过去24小时，哪些财经新闻对普通人影响更大，未来又有什么焦点事件被市场密切关注，早知道栏目从新闻汇总到快速解读，为你一网打尽。\n \n <strong>24小时热点</strong>\n \n<p>\n <a href=\"https://economy.caixin.com/2026-09-14/102484802.html?originReferrer=zaozhidao\">国务院国资委发布关于加强中小企业回款难问题治理有关工作的通知</a>，要求央企发挥表率作用，积极筹措资金确保及时支付，<strong>把现金支付作为“硬杠杠”，严禁新开6个月以上票证，率先在合同中明确关键要素</strong>，带头践行及时支付倡议。</p> \n<p>\n 商务部等8部门印发《促进智能家居消费行动方案》提出七方面举措，<strong>扩大智能家居供给、完善标准体系、支持消",
+      "link": "https://finance.caixin.com/2026-09-15/102484864.html",
+      "published": "Mon, 14 Sep 2026 22:51:46 GMT"
+    },
+    {
+      "source": "央视网",
+      "title": "英三地首席部长将罕见举行会晤 - 央视网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9WMHlrd0pjUWVZZi1xT2lQc0V4eGtFZzExM0k0a3d0MjdhdzhONUMwcTEyVnpiYXNNRVM3TWdOZmlHUUoyTmpNd2FCVVdyOUlWMlFKTjlZeU5rVGlXcVJhR3dSMTlCODZDZTc0QVE2ODlTMEtadGZveQ?oc=5\" target=\"_blank\">英三地首席部长将罕见举行会晤</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央视网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WMHlrd0pjUWVZZi1xT2lQc0V4eGtFZzExM0k0a3d0MjdhdzhONUMwcTEyVnpiYXNNRVM3TWdOZmlHUUoyTmpNd2FCVVdyOUlWMlFKTjlZeU5rVGlXcVJhR3dSMTlCODZDZTc0QVE2ODlTMEtadGZveQ?oc=5",
+      "published": "Mon, 14 Sep 2026 18:33:00 GMT"
+    },
+    {
+      "source": "央视网",
+      "title": "机动车与非机动车发生事故 违法者担责 - 央视网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9qalpNY3RvUFRfX256LUNsdWNQd09nT2JTWk1yQV80cE1rV2FUcEV3bjlsXzZlSkYwZjAtZ3NsSVJLUVNNbkN4RzJud1FKZ2xMWl9XaXd2dnNpVXlTSDF2UjF0MjJXblJGeTRxeFBVZ2NMaHJrWFRndA?oc=5\" target=\"_blank\">机动车与非机动车发生事故 违法者担责</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央视网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qalpNY3RvUFRfX256LUNsdWNQd09nT2JTWk1yQV80cE1rV2FUcEV3bjlsXzZlSkYwZjAtZ3NsSVJLUVNNbkN4RzJud1FKZ2xMWl9XaXd2dnNpVXlTSDF2UjF0MjJXblJGeTRxeFBVZ2NMaHJrWFRndA?oc=5",
+      "published": "Mon, 14 Sep 2026 21:37:15 GMT"
+    },
+    {
+      "source": "央视网",
+      "title": "2026年国家网络安全宣传周开幕式在山东济南举行 - 央视网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9PRjJmc3NoRUZfWFY3RE1oc1FVVWc1V1h6eUZyR1g3b2VEeXBBNFpLNmRmcmtXVi1DQU1QRXVvTVZrRXlfTUdlMk1mX2RWNFhuRjRRQlFqb2owd1BvcEJZRkx2TEI4WDIzNDV4TC1henlfY0NiTzNkdA?oc=5\" target=\"_blank\">2026年国家网络安全宣传周开幕式在山东济南举行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央视网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PRjJmc3NoRUZfWFY3RE1oc1FVVWc1V1h6eUZyR1g3b2VEeXBBNFpLNmRmcmtXVi1DQU1QRXVvTVZrRXlfTUdlMk1mX2RWNFhuRjRRQlFqb2owd1BvcEJZRkx2TEI4WDIzNDV4TC1henlfY0NiTzNkdA?oc=5",
+      "published": "Mon, 14 Sep 2026 20:37:21 GMT"
+    },
+    {
+      "source": "央视网",
+      "title": "女子买的“八角”数出13个角，竟有剧毒！厨房里如有这些快扔掉 - 央视网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1fVHRxM3JWcVI4YlJUQWhWSDV5Q1UtaVZ6bVptdDdrTUNWQUxqVjVfR3VSSGIwNmJsWVYtWlk5bzUtc0VNUW11azhqN0ZwOTBVRmdIRDFMR1cwRUZ3UTRkRm5BOThXRV9IcmlJdG8ybktfQjVPUjVpcw?oc=5\" target=\"_blank\">女子买的“八角”数出13个角，竟有剧毒！厨房里如有这些快扔掉</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央视网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fVHRxM3JWcVI4YlJUQWhWSDV5Q1UtaVZ6bVptdDdrTUNWQUxqVjVfR3VSSGIwNmJsWVYtWlk5bzUtc0VNUW11azhqN0ZwOTBVRmdIRDFMR1cwRUZ3UTRkRm5BOThXRV9IcmlJdG8ybktfQjVPUjVpcw?oc=5",
+      "published": "Mon, 14 Sep 2026 21:49:01 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "summary": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
+      "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 21:29:12 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "summary": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 16:48:10 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 16:23:42 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "Mahmoud Khalil sues Columbia for alleged failure to protect pro-Palestinian students",
+      "summary": "Mahmoud Khalil and other pro-Palestinian student activists sued Columbia University on Monday, accusing the Ivy League school of being deliberately indifferent to years of pervasive harassment because of their advocacy.",
+      "link": "https://www.reuters.com/legal/government/mahmoud-khalil-sues-columbia-for-alleged-failure-protect-pro-palestinian-2026-09-14/",
+      "published": "Mon, 14 Sep 2026 23:16:05 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "Final report on Lucy Letby baby murders due, amid growing questions about convictions",
+      "summary": "A public inquiry into Lucy Letby's murder of seven newborn babies was due to publish its final report on Tuesday, amid growing questions about whether the former British nurse's convictions were based on flawed medical ‌evidence.",
+      "link": "https://www.reuters.com/world/uk/final-report-lucy-letby-baby-murders-due-amid-growing-questions-about-2026-09-14/",
+      "published": "Mon, 14 Sep 2026 23:03:42 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "Colombia Congress approves 2027 budget as fiscal strains deepen",
+      "summary": "Colombia's Congress on Monday approved the government's 2027 spending budget of 634.9 trillion pesos ($206.6 billion), amid a sharp deterioration in public finances that is expected to push the fiscal ‌deficit to a record high next year.",
+      "link": "https://www.reuters.com/world/americas/colombia-congress-approves-2027-budget-fiscal-strains-deepen-2026-09-14/",
+      "published": "Mon, 14 Sep 2026 22:58:45 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "North Korea's Kim vows to expand ties with Russia, backs victory in 'sacred war'",
+      "summary": "North Korean leader Kim Jong Un said he would \"expand and deepen\" joint work with Russia in a message to Russian President Vladimir ‌Putin, state media KCNA reported on Tuesday.",
+      "link": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-vows-expand-ties-with-russia-backs-victory-sacred-war-2026-09-14/",
+      "published": "Mon, 14 Sep 2026 22:39:03 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "NATO fighter shoots down drone in Lithuania",
+      "summary": "A NATO fighter jet shot down a drone in Lithuania shortly after midnight ‌on Tuesday, the Lithuanian national crisis management centre said.",
+      "link": "https://www.reuters.com/business/aerospace-defense/nato-fighter-shoots-down-drone-lithuania-2026-09-14/",
+      "published": "Mon, 14 Sep 2026 22:29:12 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "Trump approval up from record low, but outlook sours for Republicans, Reuters/Ipsos poll finds",
+      "summary": "President Donald Trump's public approval rating rose from a record low, while Americans voiced growing support for Democrats gaining ‌power in the U.S. Congress in a Reuters/Ipsos poll taken in the days after the Republican Party's first-ever midterm convention last week.",
+      "link": "https://www.reuters.com/world/us/trump-approval-up-record-low-outlook-sours-republicans-reutersipsos-poll-finds-2026-09-14/",
+      "published": "Mon, 14 Sep 2026 20:35:42 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "Prince Harry's children moving school after two days over security concerns",
+      "summary": "The children of Britain's Prince Harry and his wife Meghan are to swap schools after just two days because of concerns over the security of transporting them, the couple's spokesperson said on Monday.",
+      "link": "https://www.reuters.com/world/uk/prince-harrys-children-moving-school-after-two-days-over-security-concerns-2026-09-14/",
+      "published": "Mon, 14 Sep 2026 20:23:44 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "Serbia's President Vucic says he will run for prime minister amid student protests",
+      "summary": "Serbia's President Aleksandar Vucic, a populist who has been president or prime minister for 12 years, said he would run for prime minister in an ‌October 25 election, and thousands of opposition supporters rallied in Belgrade on Monday.",
+      "link": "https://www.reuters.com/world/serbias-president-vucic-says-he-will-run-prime-minister-amid-student-protests-2026-09-14/",
+      "published": "Mon, 14 Sep 2026 19:46:55 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "Argentina's Milei plans bill to toughen sanctions against firms operating in Falklands",
+      "summary": "Argentine President Javier Milei is preparing legislation this week to toughen sanctions against companies operating in the Falkland Islands, a move analysts say raises uncertainty over whether he may escalate tensions with Britain by targeting other sectors of the disputed islands' economy.",
+      "link": "https://www.reuters.com/business/energy/argentinas-milei-plans-bill-toughen-sanctions-against-firms-operating-falklands-2026-09-14/",
+      "published": "Mon, 14 Sep 2026 18:27:41 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "British man admits drugging and raping wife over more than two decades",
+      "summary": "A British man on Monday admitted repeatedly drugging and raping his wife at their home over more than two ‌decades, shortly before his trial was about to begin.",
+      "link": "https://www.reuters.com/legal/litigation/british-man-admits-drugging-raping-wife-over-more-than-two-decades-2026-09-14/",
+      "published": "Mon, 14 Sep 2026 16:29:43 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "Russian convoy resupplies Syria coastal facilities for first time since Moscow-Damascus deal",
+      "summary": "A convoy of Russian naval and cargo vessels delivered supplies last week to coastal facilities long ‌used by Moscow’s military, two sources familiar with the operation said, in the first such mission since Damascus and Moscow agreed last month on the future of Russia’s military presence in the country.",
+      "link": "https://www.reuters.com/world/russian-convoy-resupplies-syria-coastal-facilities-first-time-since-moscow-2026-09-14/",
+      "published": "Mon, 14 Sep 2026 16:15:47 GMT"
+    },
+    {
+      "source": "Reuters",
+      "title": "Spain demands justice after killing of student in Mexico",
+      "summary": "Spain's foreign minister on Monday demanded justice after the killing of a 21-year-old Spanish student in central Mexico, a case local authorities are investigating as ‌a femicide.",
+      "link": "https://www.reuters.com/world/americas/spanish-minister-demands-justice-after-violent-death-young-woman-mexico-2026-09-14/",
+      "published": "Mon, 14 Sep 2026 16:13:10 GMT"
+    },
+    {
+      "source": "NYTimes",
+      "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
+      "summary": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
+      "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
+      "published": "Mon, 14 Sep 2026 16:34:19 +0000"
+    },
+    {
+      "source": "NYTimes",
+      "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+      "summary": "Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.",
+      "link": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
+      "published": "Mon, 14 Sep 2026 17:38:15 +0000"
+    },
+    {
+      "source": "NYTimes",
+      "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+      "summary": "The film “NAZA” investigates the killing of Palestinians by Israeli forces in Gaza. Israel’s culture minister has suggested revoking the directors’ citizenship.",
+      "link": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+      "published": "Mon, 14 Sep 2026 18:07:07 +0000"
+    },
+    {
+      "source": "NYTimes",
+      "title": "Saudi Leader Meets U.S. Commander as Houthi Attacks Threaten Oil Markets",
+      "summary": "Crown Prince Mohammed bin Salman asked the United States for more U.S. military help last week after the Iranian-backed Houthi forces in Yemen launched a broad offensive.",
+      "link": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html",
+      "published": "Mon, 14 Sep 2026 19:24:07 +0000"
+    },
+    {
+      "source": "NYTimes",
+      "title": "Syrians Protest as Surge in Fuel Prices Adds to Cost-of-Living Crisis",
+      "summary": "The government’s decision to increase prices as much as 40 percent spurred widespread demonstrations across the country.",
+      "link": "https://www.nytimes.com/2026/09/14/world/middleeast/syrians-protest-fuel-price-rises.html",
+      "published": "Mon, 14 Sep 2026 20:42:07 +0000"
+    },
+    {
+      "source": "NYTimes",
+      "title": "She Bashed the Government on a Private Call. Then She Was Detained for Months",
+      "summary": "Racial and political tensions have flared in Trinidad and Tobago after members of an ethnic minority were accused of an assassination plot based on a private phone call.",
+      "link": "https://www.nytimes.com/2026/09/14/world/americas/trinidad-assassination-plot-arrests.html",
+      "published": "Mon, 14 Sep 2026 20:04:21 +0000"
+    },
+    {
+      "source": "NYTimes",
+      "title": "What Do the Houthis Want?",
+      "summary": "The Iranian-backed militia has made strategic gains, becoming an unlikely power player in the Middle East.",
+      "link": "https://www.nytimes.com/2026/09/14/world/houthis-saudi-iran-jeff-koons.html",
+      "published": "Mon, 14 Sep 2026 20:39:37 +0000"
+    },
+    {
+      "source": "NYTimes",
+      "title": "British Man Pleads Guilty to Drugging and Raping Wife Over 20 Years",
+      "summary": "The police said that a dozen other men conspired with the husband, who is in his 60s, to abuse the woman in northern England.",
+      "link": "https://www.nytimes.com/2026/09/14/world/europe/uk-man-wife-drugging-rape-confession.html",
+      "published": "Mon, 14 Sep 2026 20:01:27 +0000"
+    },
+    {
+      "source": "NYTimes",
+      "title": "A.I. Queries From Abroad Raise Fears of a Biological Weapons Race",
+      "summary": "Today’s chatbots aren’t likely to help lone actors invent a deadly pathogen, experts say. But newer models, trained in biology, may need stronger safeguards.",
+      "link": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html",
+      "published": "Mon, 14 Sep 2026 19:36:43 +0000"
+    },
+    {
+      "source": "NYTimes",
+      "title": "How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up",
+      "summary": "A secret archaeological dig inside a Dutch church has led to drama worthy of Alexandre Dumas. Did Wim Dijkman really find the bones of the fourth musketeer? We may never know.",
+      "link": "https://www.nytimes.com/2026/09/13/world/europe/wim-dijkman-musketeer-bones-dartagnan.html",
+      "published": "Mon, 14 Sep 2026 17:45:26 +0000"
+    },
+    {
+      "source": "CNN",
+      "title": "0% intro APR until 2024 is 100% insane",
+      "summary": "",
+      "link": "https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-reflect-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-welref2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn",
+      "published": ""
+    },
+    {
+      "source": "CNN",
+      "title": "It's official: now avoid credit card interest into 2024",
+      "summary": "",
+      "link": "https://www.fool.com/the-ascent/credit-cards/landing/citi-simplicity-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-citisimp2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn",
+      "published": ""
+    },
+    {
+      "source": "CNN",
+      "title": "Experts: this is the best cash back card of 2022",
+      "summary": "",
+      "link": "https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-active-cash-card-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-welac2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn",
+      "published": ""
+    },
+    {
+      "source": "CNN",
+      "title": "Turn Your Rising Home Equity Into Cash You Can Use",
+      "summary": "",
+      "link": "https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=risingequitycash_housemoneystack&placement_name=sectionfronts&ad_headline=risingequitycash&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616",
+      "published": ""
+    },
+    {
+      "source": "CNN",
+      "title": "Dream Big with a Home Equity Loan",
+      "summary": "",
+      "link": "https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=dreambighomeequity_housemoneystack&placement_name=sectionfronts&ad_headline=dreambighomeequity&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616",
+      "published": ""
+    },
+    {
+      "source": "CNN",
+      "title": "Want Cash Out of Your Home? Here Are Your Best Options",
+      "summary": "",
+      "link": "https://www.lendingtree.com/?splitterid=home-equity&cproduct=he&cchannel=content&csource=cnn&cmethod=heform&ccreative=cashoutoptions_housemoneystack&placement_name=sectionfronts&ad_headline=cashoutoptions&ad_image_name=housemoneystack&ctype=sectionfronts&bdst=revshare&mtaid=AC53E&esourceid=6348616",
+      "published": ""
+    },
+    {
+      "source": "微博热搜",
+      "title": "我国灵活就业人员规模已超过2亿人",
+      "summary": "热",
+      "link": "https://s.weibo.com/weibo?q=%23我国灵活就业人员规模已超过2亿人%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "黄斌公开炮轰罗永浩",
+      "summary": "热",
+      "link": "https://s.weibo.com/weibo?q=%23黄斌公开炮轰罗永浩%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "网络安全宣传周亮点揭秘",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23网络安全宣传周亮点揭秘%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "京东服装真5折年度大促",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23京东服装真5折年度大促%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "猕猴桃是全世界最团结的水果",
+      "summary": "热",
+      "link": "https://s.weibo.com/weibo?q=%23猕猴桃是全世界最团结的水果%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "艾滋病会通过接吻传播吗",
+      "summary": "新",
+      "link": "https://s.weibo.com/weibo?q=%23艾滋病会通过接吻传播吗%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "终于知道为什么有人工作能力这么强",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23终于知道为什么有人工作能力这么强%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "美股",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23美股%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "刘学义郑合惠子 cp感玄学",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23刘学义郑合惠子 cp感玄学%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "脑梗前三天身体发出的预警",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23脑梗前三天身体发出的预警%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "鞠婧祎这是拍戏还是蹦极",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23鞠婧祎这是拍戏还是蹦极%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "疑似中国籍教练印尼射杀玳瑁",
+      "summary": "热",
+      "link": "https://s.weibo.com/weibo?q=%23疑似中国籍教练印尼射杀玳瑁%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "女子因7旬老人居住环境脏乱捅其6刀",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23女子因7旬老人居住环境脏乱捅其6刀%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "宋祖儿 赖雨濛",
+      "summary": "热",
+      "link": "https://s.weibo.com/weibo?q=%23宋祖儿 赖雨濛%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "井柏然边界感",
+      "summary": "新",
+      "link": "https://s.weibo.com/weibo?q=%23井柏然边界感%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "自称演唱会求婚事件当事人发声",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23自称演唱会求婚事件当事人发声%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "海南大暴雨特大暴雨",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23海南大暴雨特大暴雨%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "罗永浩 黄斌",
+      "summary": "",
+      "link": "https://s.weibo.com/weibo?q=%23罗永浩 黄斌%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "iOS27",
+      "summary": "新",
+      "link": "https://s.weibo.com/weibo?q=%23iOS27%23"
+    },
+    {
+      "source": "微博热搜",
+      "title": "崔永元发文悼念敬一丹",
+      "summary": "新",
+      "link": "https://s.weibo.com/weibo?q=%23崔永元发文悼念敬一丹%23"
+    },
+    {
+      "source": "知乎热榜",
+      "title": "为什么一只蚂蚁无论从多高的地方摔下来都不会被摔伤摔死，其他动物摔下来直接死翘翘了，背后是什么原理呢？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-b6e35fd79fc1349815c87d30842ac2c3_l.jpg?source=8673f162\" />\n<span class=\"author\">云杉，</span><span class=\"bio\">知乎遗风，科研工作者，文理双修的战士。</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/2078282",
+      "link": "https://daily.zhihu.com/story/9792567",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "为什么中国能实现蔬菜自由，欧洲却不行？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pica.zhimg.com/v2-f2ea5ef8ad54e4ed3b9f7bda926e76f8_l.jpg?source=8673f162\" />\n<span class=\"author\">Alfred大老虎，</span><span class=\"bio\">拼多多小店：大老虎的农夫果园</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/20240",
+      "link": "https://daily.zhihu.com/story/9792582",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "数据中心为什么需要这么多电和水？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-0fd0250f9351a36609cf1c86eb757e4e_l.jpg?source=8673f162\" />\n<span class=\"author\">黄河边儿，</span><span class=\"bio\">勤学善思，理性科普，热爱生活，向阳而行。</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/2078",
+      "link": "https://daily.zhihu.com/story/9792573",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "瞎扯 · 如何正确地吐槽",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\">瞎扯 · 给男朋友买 GT 1030 显卡，但他表情很怪怎么办?</h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162\" />\n<span class=\"author\">知乎日报</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/None/answer/None\">",
+      "link": "https://daily.zhihu.com/story/9792588",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "哪种动物的冬眠机制最有可能为人类研究冬眠提供有价值的参考？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-4cdc8dc004835c64495966f8a36ec5f6_l.jpg?source=8673f162\" />\n<span class=\"author\">biokiwi，</span><span class=\"bio\">用生命科学的角度看世界！</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/537580712",
+      "link": "https://daily.zhihu.com/story/9792549",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "可不可以莫名其妙地教我一个知识?",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pica.zhimg.com/v2-e3f6506541c8ae071adfef5b107e760b_l.jpg?source=8673f162\" />\n<span class=\"author\">小帽officials，</span><span class=\"bio\">喜欢空洞骑士，05后，人文社科科普博主(不键政)，法律-情感-文学等相关咨询请私信</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https:/",
+      "link": "https://daily.zhihu.com/story/9792557",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pica.zhimg.com/71580c4ab8a8d4b518a40975c606ba2c_l.jpg?source=8673f162\" />\n<span class=\"author\">荔枝，</span><span class=\"bio\">北京师范大学汉语言文学专业，不知名学校教育学博士在读</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/207",
+      "link": "https://daily.zhihu.com/story/9792555",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "瞎扯 · 如何正确地吐槽",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\">瞎扯 · 旺旺碎冰冰掰断是上面那根大还是下面那根大？</h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pica.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162\" />\n<span class=\"author\">知乎日报</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/None/answer/None\">查看知乎原文",
+      "link": "https://daily.zhihu.com/story/9792561",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "为啥自然演化出轮子会那么难？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-e3f6506541c8ae071adfef5b107e760b_l.jpg?source=8673f162\" />\n<span class=\"author\">小帽officials，</span><span class=\"bio\">喜欢空洞骑士，05后，人文社科科普博主(不键政)，法律-情感-文学等相关咨询请私信</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https:/",
+      "link": "https://daily.zhihu.com/story/9792542",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "一头鲸鱼一天能吃好几吨磷虾，为什么磷虾还没被吃灭绝？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-237a03ae1afaa4ec8443e82b1a711d17_l.jpg?source=8673f162\" />\n<span class=\"author\">祥昊，</span><span class=\"bio\">我在想要不凑几个人跑团去？</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/2075640036507",
+      "link": "https://daily.zhihu.com/story/9792548",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "蚊子真的能飞上十楼以上吗？十楼以上的蚊子是怎么进来的？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pica.zhimg.com/v2-eb665fa780d6c2ffe7908debeb029b04_l.jpg?source=8673f162\" />\n<span class=\"author\">斜绿天蛾，</span><span class=\"bio\">点进主页你会发现，这人真就只在乎虫子</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/192389",
+      "link": "https://daily.zhihu.com/story/9792545",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "昆虫是如何飞行的？它们飞行的原理是什么？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-237a03ae1afaa4ec8443e82b1a711d17_l.jpg?source=8673f162\" />\n<span class=\"author\">祥昊，</span><span class=\"bio\">我在想要不凑几个人跑团去？</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/1969367763081",
+      "link": "https://daily.zhihu.com/story/9792544",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "为什么动物不能像人那样拥有大块胸肌？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-be4dcdda29f593a0b698f5377a4abe7f_l.jpg?source=8673f162\" />\n<span class=\"author\">Rara，</span><span class=\"bio\">生物爱好者，AI行业梭边鱼，杂志科普作家。</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/433",
+      "link": "https://daily.zhihu.com/story/9792513",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "世界上有哪些冷门的古文字体系？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-73c41728e075ee58c27b598c81629b16_l.jpg?source=8673f162\" />\n<span class=\"author\">执戟郎，</span><span class=\"bio\">东北亚宗教研究</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/206195094683024355",
+      "link": "https://daily.zhihu.com/story/9792536",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "我奔跑的时候拿着手电筒向前射出一束光，那这束光的速度是不是相对地面超过了光速？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-07451ac6f2c967afcf4190867755ec84_l.jpg?source=8673f162\" />\n<span class=\"author\">曹天元 Capo，</span><span class=\"bio\">Bayesian</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/194410154979",
+      "link": "https://daily.zhihu.com/story/9792530",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "在古代还没有毒品概念的时候，天然成瘾植物为何没有成为顶级香料？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pica.zhimg.com/v2-da174658941abdedd71fa129af808b9e_l.jpg?source=8673f162\" />\n<span class=\"author\">宫本兔618，</span><span class=\"bio\">左左右右上上下下baba差不多得了/泛亚领域/知乎树洞/</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/que",
+      "link": "https://daily.zhihu.com/story/9792522",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "请问哪些植物毛茸茸的？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-9ad86e11a77d14187aee7583000213d0_l.jpg?source=8673f162\" />\n<span class=\"author\">小星有鬼，</span><span class=\"bio\">自然博物写作者，在鸟兽草木间寻找真相和诗意</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/483",
+      "link": "https://daily.zhihu.com/story/9792490",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "如何看待杨振宁认为有造物主的存在？",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-3c319615d322403c55f111dc3c76b78c_l.jpg?source=8673f162\" />\n<span class=\"author\">史中，</span><span class=\"bio\">浅黑科技创始人、主笔 微信：shizhongmax</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/4",
+      "link": "https://daily.zhihu.com/story/9792500",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "荷马史诗《奥德赛》讲了一个什么故事?",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\"></h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://pic1.zhimg.com/v2-e3f6506541c8ae071adfef5b107e760b_l.jpg?source=8673f162\" />\n<span class=\"author\">小帽officials，</span><span class=\"bio\">非原用户本人，喜欢空洞骑士，法学在读大学生，05后，人文社科科普博主(不键政)</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://w",
+      "link": "https://daily.zhihu.com/story/9792497",
+      "published": ""
+    },
+    {
+      "source": "知乎热榜",
+      "title": "瞎扯 · 如何正确地吐槽",
+      "summary": "<div class=\"main-wrap content-wrap\">\n<div class=\"headline\">\n\n<div class=\"img-place-holder\"></div>\n\n\n\n</div>\n\n<div class=\"content-inner\">\n\n\n\n\n<div class=\"question\">\n<h2 class=\"question-title\">瞎扯 · 你抓拍的小动物是什么样子的？</h2>\n\n<div class=\"answer\">\n\n<div class=\"meta\">\n<img class=\"avatar\" src=\"https://picx.zhimg.com/v2-fc734cfcc0b308e24640f9b5a2d2316d_l.jpg?source=8673f162\" />\n<span class=\"author\">知乎日报</span>\n<a class=\"originUrl\" hidden=\"\" href=\"https://www.zhihu.com/question/None/answer/None\">查看知乎原文</a>\n</",
+      "link": "https://daily.zhihu.com/story/9792508",
+      "published": ""
+    },
+    {
+      "source": "B站热门",
+      "title": "985本硕毕业后，30岁小伙重读本科，成功入住宿舍，跟大家介绍我的新家",
+      "summary": "生活，从这里出发",
+      "link": "https://b23.tv/BV1dTYC6AEYQ"
+    },
+    {
+      "source": "B站热门",
+      "title": "亲证",
+      "summary": "当你凝视深渊时，深渊也在凝视你——尼采《善恶的彼岸》     傲慢是原罪。 ps：非官方剧情，是自己为爱发电的原创剧情",
+      "link": "https://b23.tv/BV1zoY66wE6J"
+    },
+    {
+      "source": "B站热门",
+      "title": "和五月天阿信见了他",
+      "summary": "苹果发布会之后，我们和五月天阿信一起，去见了一个人，和他聊了聊……\n他到底是谁？为什么是阿信？又聊了什么？先不剧透，正片见。",
+      "link": "https://b23.tv/BV17PYC6KEXu"
+    },
+    {
+      "source": "B站热门",
+      "title": "全网首发！感谢大家参与！二周年彩蛋我们解出来啦！大战场篇完事！三角洲真的太阴了！",
+      "summary": "依旧需要大家的树枝码和电台码！🙏🙏🙏\n在烽火/大战场截图以后上传到网站即可：https://www.kkrb.net/?viewpage=df2nd\n签约B站了！有KPI了！大家点点赞感谢",
+      "link": "https://b23.tv/BV1NuYy6DEtZ"
+    },
+    {
+      "source": "B站热门",
+      "title": "你说你要一锅端？",
+      "summary": "视频来源：显眼宝、公安部经侦局、广东省金融纠纷调解联合会",
+      "link": "https://b23.tv/BV1F9Y66NEVP"
+    },
+    {
+      "source": "B站热门",
+      "title": "全网首发！二周年彩蛋解密完成！每个鸟窝都是入口！难度大大降低！这些东西速买！要爆！",
+      "summary": "烽火彩蛋成功解出啦！非常感谢大家的参与！二周年解密，没你不行！\n签约B站了！有KPI了！大家点点赞感谢",
+      "link": "https://b23.tv/BV1wge56aEhC"
+    },
+    {
+      "source": "B站热门",
+      "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+      "summary": "悲亦唱，欣亦唱，\n人间一瞬如朝露，\n不负此生歌一场。\n————————————————\n灵感来源：羊音乐 - 《固有一死》\n项目策划：@羊音乐   编剧/导演/剪辑：@SillyZ_Official  \n背景音乐：\n Lia Ouyang Rusli - LOVE \nFred again.. - Julia(deep diving) \nHidekazu Sakamoto - white color",
+      "link": "https://b23.tv/BV1PYYo6XEW9"
+    },
+    {
+      "source": "B站热门",
+      "title": "Re：从零开始的异世界学园生活·序",
+      "summary": "怠惰if还是会更新的，额外花了一千多做了些人设图，参考\"春物语\"的开头剧情做个新系列。\n视频纯为爱发电，播放量全仰仗各位观众老爷点赞三连。\n跟观众老爷求一波投币，如果有5000投币直接日更下一期且会更8分钟左右的剧情。\n视频成本是1秒160积分，1个硬币等于20积分，单稿激励上限10w积分。\n置顶评论图片为本期视频提示词。\n最后跟观众老爷求波关注，助我拿到b站的限时任务的激励，争取给大家带来更多好作品。\n正片传送门：https://www.bilibili.com/bangumi/play/ep30705",
+      "link": "https://b23.tv/BV1PeYe69EWk"
+    },
+    {
+      "source": "B站热门",
+      "title": "《地狱之家》改编自粉丝真实经历",
+      "summary": "",
+      "link": "https://b23.tv/BV1MUYv6AEJS"
+    },
+    {
+      "source": "B站热门",
+      "title": "锵锵锵",
+      "summary": "-",
+      "link": "https://b23.tv/BV1tsY16bEwp"
+    },
+    {
+      "source": "B站热门",
+      "title": "【萌黄一槽】夺走你的心！角都[晓·北]全技能爆料",
+      "summary": "与面具怪协同出击，一人就是一个小队的忍界知名“赏金猎人”出没！",
+      "link": "https://b23.tv/BV1seY16pEh9"
+    },
+    {
+      "source": "B站热门",
+      "title": "驯化西瓜：一颗苦涩有毒的野瓜，如何成为世界顶流",
+      "summary": "报恩西瓜是怎么来的？如何挑出一颗完美的绝世好瓜？中国又是如何成为“世界第一吃瓜大国”？\n参考文献：\n[1]PÉREZ-ESCOBAR O A, TUSSO S, PRZELOMSKA N A S, et al. Genome Sequencing of up to 6,000-Year-OldCitrullusSeeds Reveals Use of a Bitter-Fleshed Species Prior to Watermelon Domestication[J]. Molecular Biolo",
+      "link": "https://b23.tv/BV11CYk6UEB4"
+    },
+    {
+      "source": "B站热门",
+      "title": "峰哥亡命越南，河内一天逛吃vlog",
+      "summary": "看看越南首都河内和你想象的一样吗？",
+      "link": "https://b23.tv/BV1h3Yr6QEoY"
+    },
+    {
+      "source": "B站热门",
+      "title": "猫师傅进城第一天，没钱住店却遇见了一群好人",
+      "summary": "",
+      "link": "https://b23.tv/BV1rPYS6bEhY"
+    },
+    {
+      "source": "B站热门",
+      "title": "【假装讲电影】笑死！黑帮集体跳槽干物业！结果发现物业更黑啊！！！",
+      "summary": "原片：韩国电视剧《公寓黑风暴》",
+      "link": "https://b23.tv/BV1vnYQ6xEMr"
+    },
+    {
+      "source": "B站热门",
+      "title": "还原我吃完菌子做的噩梦",
+      "summary": "曾经，我一直因为人类社会听不懂我的话而苦恼，现在多亏了MiniMax H3，我找到了能听懂我说话的存在，我喜欢你。",
+      "link": "https://b23.tv/BV1JJYd6rEwA"
+    },
+    {
+      "source": "B站热门",
+      "title": "我来接受中国朋友们的挑战啦！",
+      "summary": "Hi中国的朋友们，这是我首次和中国博主们@歪果仁研究协会  @飓多多StormCrew  @小Lin说  @星悦小美女PKU  @Meetfood觅食  @毒角SHOW  @保罗在美国  一起拍视频！但是跟以往不同的是，这次是我来接受你们的中式挑战！惩罚再次升级，千万不要错过本期视频！😂 最后，感谢@乔治出发   带来你们送我的礼物！这份心意我都收到啦！期待和大家在中国见面！",
+      "link": "https://b23.tv/BV1qdY76eE46"
+    },
+    {
+      "source": "B站热门",
+      "title": "【1818黄金眼】女会员的健身照 店长发朋友圈引流？",
+      "summary": "谢女士是绍兴一家健身房的会员，说是店长在朋友圈发了好多女会员的锻炼照片引流，其中也包括她的。现在对方虽然删了照片，但没向她道歉。谢女士说那名店长调到了另一家店，她带记者老卢找过去，被告知对方又调去江苏了。",
+      "link": "https://b23.tv/BV1L8YY6qEM3"
+    },
+    {
+      "source": "B站热门",
+      "title": "花了 4.61 亿 token，我把整个 N 网汉化了",
+      "summary": "网址：mod.igamep.com/game.html",
+      "link": "https://b23.tv/BV1LcYr68EpR"
+    },
+    {
+      "source": "B站热门",
+      "title": "这地方我能下去游泳吗？",
+      "summary": "",
+      "link": "https://b23.tv/BV1yGYd67EHQ"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "国务院对青岛船厂火灾提级调查",
+      "summary": 1789379441,
+      "link": "https://www.douyin.com/search/国务院对青岛船厂火灾提级调查"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "全国多地观测到金星伴月美景",
+      "summary": 1789391297,
+      "link": "https://www.douyin.com/search/全国多地观测到金星伴月美景"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "一组数据看金砖20年",
+      "summary": 1789388749,
+      "link": "https://www.douyin.com/search/一组数据看金砖20年"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "全国地标被大学生玩明白了",
+      "summary": 1789368931,
+      "link": "https://www.douyin.com/search/全国地标被大学生玩明白了"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "媒体评沙特求美军出手被拒",
+      "summary": 1789368711,
+      "link": "https://www.douyin.com/search/媒体评沙特求美军出手被拒"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "全球市场迎“超级央行周”",
+      "summary": 1789350993,
+      "link": "https://www.douyin.com/search/全球市场迎“超级央行周”"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "中国男篮三连胜头名出线",
+      "summary": 1789365801,
+      "link": "https://www.douyin.com/search/中国男篮三连胜头名出线"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "请选择你的请3休13心动目的地",
+      "summary": 1789374803,
+      "link": "https://www.douyin.com/search/请选择你的请3休13心动目的地"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "演唱会是成年人的童话",
+      "summary": 1789268686,
+      "link": "https://www.douyin.com/search/演唱会是成年人的童话"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "东北入秋的仪式是一锅酱大骨",
+      "summary": 1789288675,
+      "link": "https://www.douyin.com/search/东北入秋的仪式是一锅酱大骨"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "当我不小心染上蔡徐坤审美穿搭",
+      "summary": 1789309888,
+      "link": "https://www.douyin.com/search/当我不小心染上蔡徐坤审美穿搭"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "胡塞武装对沙特空军基地发动打击",
+      "summary": 1789382206,
+      "link": "https://www.douyin.com/search/胡塞武装对沙特空军基地发动打击"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "早春晴朗迎来收官",
+      "summary": 1789307041,
+      "link": "https://www.douyin.com/search/早春晴朗迎来收官"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "网红暴躁的小张姥娘离世",
+      "summary": 1789366259,
+      "link": "https://www.douyin.com/search/网红暴躁的小张姥娘离世"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "席琳迪翁重返演唱会舞台",
+      "summary": 1789273220,
+      "link": "https://www.douyin.com/search/席琳迪翁重返演唱会舞台"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "燕麦系部落格女孩",
+      "summary": 1789378497,
+      "link": "https://www.douyin.com/search/燕麦系部落格女孩"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "王曼昱登顶女单世界第一",
+      "summary": 1789356083,
+      "link": "https://www.douyin.com/search/王曼昱登顶女单世界第一"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "兰香如故热度破29000",
+      "summary": 1789391012,
+      "link": "https://www.douyin.com/search/兰香如故热度破29000"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "媒体评郭有才走红后争议",
+      "summary": 1789377109,
+      "link": "https://www.douyin.com/search/媒体评郭有才走红后争议"
+    },
+    {
+      "source": "抖音热搜",
+      "title": "田姥姥送别小张姥姥",
+      "summary": 1789389333,
+      "link": "https://www.douyin.com/search/田姥姥送别小张姥姥"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "沈阳队射手、门将、点球手畅谈备战 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA2cUl2cV96RTFlbVAzYzZhN2g1bGpwaElQZ0xFWmJxWVBkblVGV3VEZHkzeS1wcGNYWVd3OGFhN3lEODVUYUNleFpHUkN5RHdiOTNfdk1KaElrQXNDRFN1eVo5YTNXNXJWenc1ZUlaMjhOUVZaQzlCeQ?oc=5\" target=\"_blank\">沈阳队射手、门将、点球手畅谈备战</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2cUl2cV96RTFlbVAzYzZhN2g1bGpwaElQZ0xFWmJxWVBkblVGV3VEZHkzeS1wcGNYWVd3OGFhN3lEODVUYUNleFpHUkN5RHdiOTNfdk1KaElrQXNDRFN1eVo5YTNXNXJWenc1ZUlaMjhOUVZaQzlCeQ?oc=5",
+      "published": "Mon, 14 Sep 2026 20:50:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "周某郑某诉劲创实业等民间借贷纠纷案9月15日开庭 涉案金额未披露 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1BsNW5vOGhPUUJ6dFRlemNId1dfQU82SzlvVi0zNjRGamlCWVFwZWEwZXB5clJ4VHBEYzJrTHBzdXc1TzAwckdDN285bE1QLWFZU1JEUmpPNDdTWFVrMWZGNmo2WjVKTEpBeU5kS19YeFpmUGF3WWlXVVN6VXhJOFlLQU8tQ0ZpQ2R0ZjdR?oc=5\" target=\"_blank\">周某郑某诉劲创实业等民间借贷纠纷案9月15日开庭 涉案金额未披露</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1BsNW5vOGhPUUJ6dFRlemNId1dfQU82SzlvVi0zNjRGamlCWVFwZWEwZXB5clJ4VHBEYzJrTHBzdXc1TzAwckdDN285bE1QLWFZU1JEUmpPNDdTWFVrMWZGNmo2WjVKTEpBeU5kS19YeFpmUGF3WWlXVVN6VXhJOFlLQU8tQ0ZpQ2R0ZjdR?oc=5",
+      "published": "Mon, 14 Sep 2026 23:00:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "唐某诉两物业公司债权人撤销权纠纷案9月15日开庭 涉经营合规评估 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzBKMkhmUDM0SGJhbS16aFN4R054bUppUnNHdXo3LW1fcnFqVjF1WWlpd01yUGlKZFBCa3JGNEJwU2ZJUW85SU1Ib0ZWc1VHUXhMN1c3c2MyTlM3V2x2M2NJM3F0NG9sdGZuX0gtclllZjB4UExGbkN1VHB5OUJDSVluNV9JLTluTDFlLTln?oc=5\" target=\"_blank\">唐某诉两物业公司债权人撤销权纠纷案9月15日开庭 涉经营合规评估</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzBKMkhmUDM0SGJhbS16aFN4R054bUppUnNHdXo3LW1fcnFqVjF1WWlpd01yUGlKZFBCa3JGNEJwU2ZJUW85SU1Ib0ZWc1VHUXhMN1c3c2MyTlM3V2x2M2NJM3F0NG9sdGZuX0gtclllZjB4UExGbkN1VHB5OUJDSVluNV9JLTluTDFlLTln?oc=5",
+      "published": "Mon, 14 Sep 2026 22:31:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "何某诉上海龙煊健康管理有限公司等合同纠纷案2026年9月15日开庭 涉合规履约核查 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2ZJZzNLaWxWQU9jTGdVajhiTnlmQ25admVZWTQwU3ptdS1fTV9sZ3ZwdHQwMGRtWWUtZzk5aEk2ak9wTGpsMjNlaTJNX3ZtMGdVSkN6b1NkZzRCQ0lpTFV0aDVvUml6ZnZvNmgxOU5hNGQtbW1jcGJObGoyWnFvMU1fSnRMOXRXcjJBS0F3?oc=5\" target=\"_blank\">何某诉上海龙煊健康管理有限公司等合同纠纷案2026年9月15日开庭 涉合规履约核查</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2ZJZzNLaWxWQU9jTGdVajhiTnlmQ25admVZWTQwU3ptdS1fTV9sZ3ZwdHQwMGRtWWUtZzk5aEk2ak9wTGpsMjNlaTJNX3ZtMGdVSkN6b1NkZzRCQ0lpTFV0aDVvUml6ZnZvNmgxOU5hNGQtbW1jcGJObGoyWnFvMU1fSnRMOXRXcjJBS0F3?oc=5",
+      "published": "Mon, 14 Sep 2026 22:33:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "培育人工智能产业的“热带雨林” - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE40a2l6bk9VQTM5MEQwV0dMbUZHRl80Wk1jSzJhREFnVEpJZW1NRTh1UTN0NUh0ZVUyWXNLNTBlRE1rTF9ycmlNaEwwR1dDVzBYaWZJNThzYXpGQ3BPTGtZaEppTVZhQ0JySUFjRWhJREpiTlhtaS1PdQ?oc=5\" target=\"_blank\">培育人工智能产业的“热带雨林”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40a2l6bk9VQTM5MEQwV0dMbUZHRl80Wk1jSzJhREFnVEpJZW1NRTh1UTN0NUh0ZVUyWXNLNTBlRE1rTF9ycmlNaEwwR1dDVzBYaWZJNThzYXpGQ3BPTGtZaEppTVZhQ0JySUFjRWhJREpiTlhtaS1PdQ?oc=5",
+      "published": "Mon, 14 Sep 2026 21:39:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "银华国证港股通创新药ETF发起式联接C净值上涨3.44% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObHd3eDFMSGMzVkI4TzV3aEJHRHJJXzRmUnVNbVhaYWNaWGZNS3RCWVRldE02MXpxNGhqcDJRTHJCZ0xLR3hLaDZjdjR1TFpnNlFfM0pUT3d4TU1JMEVva2xJYVVFLVE2bVJCbXNkNHZJQ3RFSjY4b2F2TW52Q1hPa1BfSXJhdktSOUI1M3FaTllPVmZjVXE0?oc=5\" target=\"_blank\">银华国证港股通创新药ETF发起式联接C净值上涨3.44%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObHd3eDFMSGMzVkI4TzV3aEJHRHJJXzRmUnVNbVhaYWNaWGZNS3RCWVRldE02MXpxNGhqcDJRTHJCZ0xLR3hLaDZjdjR1TFpnNlFfM0pUT3d4TU1JMEVva2xJYVVFLVE2bVJCbXNkNHZJQ3RFSjY4b2F2TW52Q1hPa1BfSXJhdktSOUI1M3FaTllPVmZjVXE0?oc=5",
+      "published": "Mon, 14 Sep 2026 21:06:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "汇添富国证港股通创新药ETF发起式联接A净值上涨3.48% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjd5TWNQR3hPRWRVclE4Q284WjJIOGU1ZjRURURUc3d1OVYzc0NTUzh3b3ZaUUxlQVRhYUNNekpkTGE1ZUQxMFVWTEdSeEdOc3Q0X1B1SEFjUzNCY0g5WnJqMFdEa3JzLVpSS2lCVWRwVHJydUhnTlZiQ09GZTdqTXM3TDJvTFBZa2preXZBXzI4Zm9BYnpB?oc=5\" target=\"_blank\">汇添富国证港股通创新药ETF发起式联接A净值上涨3.48%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjd5TWNQR3hPRWRVclE4Q284WjJIOGU1ZjRURURUc3d1OVYzc0NTUzh3b3ZaUUxlQVRhYUNNekpkTGE1ZUQxMFVWTEdSeEdOc3Q0X1B1SEFjUzNCY0g5WnJqMFdEa3JzLVpSS2lCVWRwVHJydUhnTlZiQ09GZTdqTXM3TDJvTFBZa2preXZBXzI4Zm9BYnpB?oc=5",
+      "published": "Mon, 14 Sep 2026 21:05:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "华夏中证港股通医疗主题ETF发起式联接C净值上涨3.08% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPb0dCSGtUMGtVbWpzNmstMlFtbVhRaTJFaXl1VVRQNWd6TDQ2UzJrSjlIbndfUS15SEZ5eGNhdnRsYlNBVldDQ2x3aEdmY2xaWkFUZXJkaUp2NlVKTmltRFU2b0FGNjNTck1QNjFUMGstWGUzUUFJekFyeGZ3ZnRvMHk5V0pwWjk2d1hQQW5jVkhHcjVLMjRj?oc=5\" target=\"_blank\">华夏中证港股通医疗主题ETF发起式联接C净值上涨3.08%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb0dCSGtUMGtVbWpzNmstMlFtbVhRaTJFaXl1VVRQNWd6TDQ2UzJrSjlIbndfUS15SEZ5eGNhdnRsYlNBVldDQ2x3aEdmY2xaWkFUZXJkaUp2NlVKTmltRFU2b0FGNjNTck1QNjFUMGstWGUzUUFJekFyeGZ3ZnRvMHk5V0pwWjk2d1hQQW5jVkhHcjVLMjRj?oc=5",
+      "published": "Mon, 14 Sep 2026 21:06:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "景顺长城中证港股通创新药ETF联接A净值上涨3.79% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObi13TU1wM1ZMamdXWGJpMVd3c3lIOXNpRUUzNUk4TmU5WGF0NFkzcGJUaksyQVZYX1c3NjhNb2l2dnpTT01yS3p3c2FrV3NqZGdJSzdRTm5KUHRjSTNjZjFod3k5b2pFdjRjTXBaTXU1ZFdRWHl5M19KMEZ4RDhCRkxkMW9HV1k5SnQ4dGFFTGRrZkowWWpB?oc=5\" target=\"_blank\">景顺长城中证港股通创新药ETF联接A净值上涨3.79%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObi13TU1wM1ZMamdXWGJpMVd3c3lIOXNpRUUzNUk4TmU5WGF0NFkzcGJUaksyQVZYX1c3NjhNb2l2dnpTT01yS3p3c2FrV3NqZGdJSzdRTm5KUHRjSTNjZjFod3k5b2pFdjRjTXBaTXU1ZFdRWHl5M19KMEZ4RDhCRkxkMW9HV1k5SnQ4dGFFTGRrZkowWWpB?oc=5",
+      "published": "Mon, 14 Sep 2026 21:06:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "汇添富恒生生物科技ETF净值上涨3.75% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDloUERDLVRwUEQ5OF93Zm1naW9LMUVZSkROZVNDd0lMSjczQjR1Q1pKVmdvbGxyQVd2ZFNlSWpKdXpRX0xKOHdCM0dkY2RCTU1ZUzBJQU9LQm1WM3pkMHU4Z3FjU1hna3V6cldRcjhaeHMtbkNxUEVpenNna1NtOHp4QUp1MG0waG9uQWhVQWZmSEJ0X1k0?oc=5\" target=\"_blank\">汇添富恒生生物科技ETF净值上涨3.75%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDloUERDLVRwUEQ5OF93Zm1naW9LMUVZSkROZVNDd0lMSjczQjR1Q1pKVmdvbGxyQVd2ZFNlSWpKdXpRX0xKOHdCM0dkY2RCTU1ZUzBJQU9LQm1WM3pkMHU4Z3FjU1hna3V6cldRcjhaeHMtbkNxUEVpenNna1NtOHp4QUp1MG0waG9uQWhVQWZmSEJ0X1k0?oc=5",
+      "published": "Mon, 14 Sep 2026 21:07:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "演唱会上求婚：没有成为高光，而是沦为笑料 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE05TXpHaExwX1NFSVNVcm9IUGtTSE9XdDh3Q3Fnak5WLXV2YUVFNXBhekJJbDVsS0dxcEJkakhQTkRUWmNKVzUzZjc0YVVULS1icnBMajZfMW12Z1F6TmdCU09jMlpQTEJYbExOMkN4bzdRUEZ1NnZZVQ?oc=5\" target=\"_blank\">演唱会上求婚：没有成为高光，而是沦为笑料</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05TXpHaExwX1NFSVNVcm9IUGtTSE9XdDh3Q3Fnak5WLXV2YUVFNXBhekJJbDVsS0dxcEJkakhQTkRUWmNKVzUzZjc0YVVULS1icnBMajZfMW12Z1F6TmdCU09jMlpQTEJYbExOMkN4bzdRUEZ1NnZZVQ?oc=5",
+      "published": "Mon, 14 Sep 2026 22:57:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "美国交通部长达菲：自动化技术将进入卡车驾驶行业。预计无人机配送业务将进一步增多。人工智能将让道路上的车辆数量减少。特朗普政府正在推进AI创新。 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBIM2c0R0otQllaWS1oNkNLRDE2d2RySjVZS09RLXRTSjNvUlBmcEIzS3QwR282RGdDODBpR2pGU0RtbkFmUW52eExhc18yVUNidFVJWC1Da0JKQ1BhdGREMW5obWs1YnhEZldPNHZ3aWhZNHNNRUJqNA?oc=5\" target=\"_blank\">美国交通部长达菲：自动化技术将进入卡车驾驶行业。预计无人机配送业务将进一步增多。人工智能将让道路上的车辆数量减少。特朗普政府正在推进AI创新。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIM2c0R0otQllaWS1oNkNLRDE2d2RySjVZS09RLXRTSjNvUlBmcEIzS3QwR282RGdDODBpR2pGU0RtbkFmUW52eExhc18yVUNidFVJWC1Da0JKQ1BhdGREMW5obWs1YnhEZldPNHZ3aWhZNHNNRUJqNA?oc=5",
+      "published": "Mon, 14 Sep 2026 20:48:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "千年古镇金堂五凤溪转型正“入戏” - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE43cGdabzBWbXRwOEpRbkR0ZjdrdWs4aGtsRTBGWnZRcUNJdEdpR1F4c1pSQWtsT3JBWGl6cUtQaXFtdWp3b3lKLThQNzVnMGxmLXIwRU10S2E1NFdETUpOSGpFZzZNQ0RoN3pxdmN5Q1ZhOUVhQU00aA?oc=5\" target=\"_blank\">千年古镇金堂五凤溪转型正“入戏”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43cGdabzBWbXRwOEpRbkR0ZjdrdWs4aGtsRTBGWnZRcUNJdEdpR1F4c1pSQWtsT3JBWGl6cUtQaXFtdWp3b3lKLThQNzVnMGxmLXIwRU10S2E1NFdETUpOSGpFZzZNQ0RoN3pxdmN5Q1ZhOUVhQU00aA?oc=5",
+      "published": "Mon, 14 Sep 2026 17:49:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "浙TA联赛火爆背后的衢州体育蝶变 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5Pd0sxbWJwdlFoOVloLUZZVG14WlZoUFhzdkpicy02NUo4MktmV1BDeEluZHJCNnUzbVdOSVAyeXpVbzFpSmRscTVIbVN6NDROb1lEZWtlanZkQjduRDRZcnFGTG15Z2VONU1oWmFCTXJCb2xlbDM1aw?oc=5\" target=\"_blank\">浙TA联赛火爆背后的衢州体育蝶变</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Pd0sxbWJwdlFoOVloLUZZVG14WlZoUFhzdkpicy02NUo4MktmV1BDeEluZHJCNnUzbVdOSVAyeXpVbzFpSmRscTVIbVN6NDROb1lEZWtlanZkQjduRDRZcnFGTG15Z2VONU1oWmFCTXJCb2xlbDM1aw?oc=5",
+      "published": "Mon, 14 Sep 2026 17:00:00 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "怡安通过债券发售筹集135亿美元，为收购USI提供资金",
+      "summary": "怡安通过一次高评级债券发售筹集了135亿美元，以资助其计划中的USI保险服务公司收购案，这标志着2026年市场上规模最大的并购融资交易之一。投资者对该债券发售的认购订单高达650亿美元，其中期限最长的债券吸引了最多的需求。作为其170亿美元全现金收购USI交易融资的一部分，怡安分七个部分出售了票据，期限从三年到三十年不等。据知情人士透露，投资者对该债券发售的认购订单高达650亿美元，其中期限最长的债券吸引了最多的需求。（新浪财经）",
+      "link": "https://www.36kr.com/newsflashes/3983867334179845",
+      "published": "Mon, 14 Sep 2026 23:19:25 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "谷歌正研究在美国新墨西哥州建设数据中心的可能性",
+      "summary": "谷歌正研究在美国新墨西哥州建设数据中心的可能性，关于新墨西哥州利县数据中心项目的洽谈仍在推进中。（财联社）",
+      "link": "https://www.36kr.com/newsflashes/3983864889490179",
+      "published": "Mon, 14 Sep 2026 23:16:56 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "美联储本周加息的概率升至92.4%",
+      "summary": "据CME“美联储观察”：美联储到9月维持利率不变的概率为7.6%，累计加息25个基点的概率为92.4%。美联储到10月维持利率不变的概率为4%，累计加息25个基点的概率为52%，累计加息50个基点的概率为44%。（财联社）",
+      "link": "https://www.36kr.com/newsflashes/3983863376755465",
+      "published": "Mon, 14 Sep 2026 23:15:23 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "微软为未来AI模型设限，将听取外部意见后更新规则",
+      "summary": "9月14日，据报道，微软发布临时版AI模型行为准则，对未来自研模型设定限制，包括不得协助制造武器、获取危险物质，不得鼓励不健康饮食或生成暴力、露骨性内容；模型还应遵循用户目标，不得形成自身目标或掩盖不当行为。微软AI负责人穆斯塔法·苏莱曼表示，公司将在更新准则前听取外部意见，新版规则将指导2027年起的模型开发。此举正值Anthropic和OpenAI等AI企业高管呼吁放缓前沿模型发展速度之际。（界面）",
+      "link": "https://www.36kr.com/newsflashes/3983862744398595",
+      "published": "Mon, 14 Sep 2026 23:14:45 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "Anthropic面向财务顾问推出Claude产品，深化金融业布局",
+      "summary": "Anthropic PBC正在向财务顾问推介一款Claude，该版本将这款聊天机器人与贝莱德、领航集团等公司运营的金融分析和风险管理技术相结合。Anthropic和贝莱德的高管表示，这套名为Claude for Financial Advisors的系统有望加快研究、行政以及投资组合监控任务。这是这家人工智能公司迄今向金融行业扩张的最重要举措之一。（新浪财经）",
+      "link": "https://www.36kr.com/newsflashes/3983860837071616",
+      "published": "Mon, 14 Sep 2026 23:12:48 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "英伟达、Palantir等据报限制使用OpenAI和Anthropic最先进AI模型",
+      "summary": "9月14日，据报道，英伟达、Palantir和Booz Allen Hamilton正要求OpenAI、Anthropic提供新的安全保障，并减少或停止使用两家公司最先进的AI模型。据报道，Palantir已说服Anthropic承诺对所有模型提供“不可撤销”的零数据保留（ZDR）保障。部分企业正转向使用自研AI模型处理更敏感的业务任务。（界面）",
+      "link": "https://www.36kr.com/newsflashes/3983859207043843",
+      "published": "Mon, 14 Sep 2026 23:11:09 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "日本存储巨头铠侠据悉考虑赴美上市，或募资至少100亿美元",
+      "summary": "据知情人士透露，铠侠控股正考虑通过发行美国存托凭证（ADR）筹集至少100亿美元，此举有望使其加入其他寻求利用投资者强劲需求来融资的人工智能相关公司行列。因讨论未公开消息而要求匿名的知情人士表示，铠侠一直在与美国银行、高盛和摩根大通等银行就可能于明年进行的发行计划展开洽谈。知情人士表示，这家总部位于东京的存储芯片制造商在日本市场回购了价值数十亿美元的股票，此次拟通过在美上市获得更多流动性。（新浪财经）",
+      "link": "https://www.36kr.com/newsflashes/3983858350652422",
+      "published": "Mon, 14 Sep 2026 23:10:16 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "甲骨文启动新一轮裁员，部分团队裁员比例达两位数",
+      "summary": "9月14日，据报道，甲骨文已启动新一轮裁员，受影响员工及公司内部邮件显示，裁员已于当天开始。此前有消息称，甲骨文计划通过新一轮裁员削减人力成本，部分团队的裁员比例达到两位数。（界面）",
+      "link": "https://www.36kr.com/newsflashes/3983857091869445",
+      "published": "Mon, 14 Sep 2026 23:09:00 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "Anthropic据报仍计划2026年上市，AI安全争议未改变IPO计划",
+      "summary": "9月14日，据报道，人工智能公司Anthropic仍可能于2026年进行首次公开募股（IPO），并已决定选择纳斯达克上市。尽管近期AI安全、产品责任和监管问题受到关注，这些因素目前并未改变公司的上市计划。据报道，Anthropic认为，成为上市公司后接受更高程度的信息披露和外部监督，反而有助于提升AI安全透明度。公司仍需要通过资本市场筹集资金，短期内推迟IPO并依靠私募融资虽可行，但长期退出资本市场并不现实。（界面）",
+      "link": "https://www.36kr.com/newsflashes/3983856561437697",
+      "published": "Mon, 14 Sep 2026 23:08:27 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "苹果推出Siri人工智能",
+      "summary": "苹果推出Siri人工智能。Siri人工智能今日开始以英语进行测试，未来将扩展至5种语言。Siri人工智能在iOS、iPadOS和watchOS上初期将无法在欧盟使用。（财联社）",
+      "link": "https://www.36kr.com/newsflashes/3983853164608518",
+      "published": "Mon, 14 Sep 2026 23:05:00 GMT"
+    },
+    {
+      "source": "36氪",
+      "title": "美股三大指数集体收跌，大型科技股涨跌不一",
+      "summary": "36氪获悉，9月14日收盘，美股三大指数集体下跌，道指跌0.29%，纳指跌0.56%，标普500指数跌0.48%。大型科技股涨跌不一，英特尔跌超5%，英伟达跌超3%，特斯拉、亚马逊跌超1%；奈飞、谷歌涨超3%，Meta涨超2%，微软涨超1%，苹果小幅上涨。热门中概股涨多跌少，爱奇艺涨超4%，理想汽车涨超3%，网易、拼多多涨超2%，小鹏集团涨超1%；富途控股跌超1%，蔚来，阿里巴巴小幅下跌。",
+      "link": "https://www.36kr.com/newsflashes/3983848872033285",
+      "published": "Mon, 14 Sep 2026 23:00:38 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "地平线：智驾平权的代价",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202609/15/35420-prod-nb2ep-general-1-1789403007352.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>把智驾芯片价格打下来的玩家，最终也要面对价格被打下来之后的自己。最近，地平线发布2026年中期业绩。营收20.55亿元，同比增长32.9%；净利润37.84亿元，同比实现扭亏为盈。数据还在增长，但市场不买账。天眼查显示，地平线于2024年在香港上市。其股价从2025年9月高点的11.32港元到现在的4.25港......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s/4qXqQI-icIzxRnrGiScU6g\" rel=\"nofollow\" style=\"text-decoration: none;\"",
+      "link": "https://www.huxiu.com/article/4891174.html",
+      "published": "Mon, 14 Sep 2026 16:24:45 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "特朗普喊不动沃什",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202609/15/35417-prod-db-general-1-1789402139393.png?imageView2/1/w/1440/h/810/|imageMogr2/strip/interlace/1/quality/85/format/png\" /></figure>你会成为特朗普的提线木偶吗？绝对不会。四月，参议院听证会，美联储主席提名人凯文·沃什给出了这四个字的回答，当时它像一句场面话。五个月后，它变成了一个利率问题。要弄明白沃什这周为什么非动手不可，得从四月那场听证会说回去。那天的火药味，从听证会门外就开始堆，开场前几个小时，特朗普隔空喊话，说如果沃什上任后不降息，......<p><span>本文来自微信公众号：</span><a href=\"https://mp.weixin.qq.com/s?__biz=MzU5ODMyNDEyNw==&amp;mid=2247509729&amp;idx=1&amp;sn=ad7d4831ee0c8",
+      "link": "https://www.huxiu.com/article/4891173.html",
+      "published": "Mon, 14 Sep 2026 16:10:17 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "香港救赎三十年",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202609/15/35416-prod-db-general-1-1789401961469.png\" /></figure>",
+      "link": "https://www.huxiu.com/article/4891172.html",
+      "published": "Mon, 14 Sep 2026 16:07:19 GMT"
+    },
+    {
+      "source": "虎嗅",
+      "title": "当年离开东北的年轻人，开始从北上广回来了",
+      "summary": "<figure><img src=\"https://img.huxiucdn.com/ai/ai-general-cover/202609/15/35415-prod-db-general-1-1789401951631.png\" /></figure>",
+      "link": "https://www.huxiu.com/article/4891171.html",
+      "published": "Mon, 14 Sep 2026 16:07:08 GMT"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "JustVugg/colibri",
+      "summary": "<img src=\"https://opengraph.githubassets.com/d7213bc43086d90b9343f3873ea5d7a0712372870c3f17d9d490dab3ed34f120/JustVugg/colibri\" /><br />Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦<br /><br />Language: C<br />Stars: 31989<br />Forks: 3382",
+      "link": "https://github.com/JustVugg/colibri",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "alibaba/open-code-review",
+      "summary": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" /><br />Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br /><br />Language: Go<br />Stars: 25591<br />Forks: 1857",
+      "link": "https://github.com/alibaba/open-code-review",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "multimodal-art-projection/YuE",
+      "summary": "<img src=\"https://opengraph.githubassets.com/b8959e734956c09f8b31776c8772d6a214c0861f2532237d907594f95234e6fe/multimodal-art-projection/YuE\" /><br />YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.<br /><br />Language: Python<br />Stars: 8303<br />Forks: 904",
+      "link": "https://github.com/multimodal-art-projection/YuE",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "debpalash/VoiceStudio",
+      "summary": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" /><br />VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br /><br />Language: Python<br />Stars: 29089<br />Forks: 3548",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "666ghj/MiroFish",
+      "summary": "<img src=\"https://repository-images.githubusercontent.com/1104332987/1d2666e4-67da-4bb7-bd85-60d49f5d3e10\" /><br />A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物<br /><br />Language: Python<br />Stars: 73108<br />Forks: 11289",
+      "link": "https://github.com/666ghj/MiroFish",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Panniantong/Agent-Reach",
+      "summary": "<img src=\"https://opengraph.githubassets.com/92df10f5f25b213a76998953cb7d6a8c7ac96ddf9b7fb3cbfd3f5cb129b4a215/Panniantong/Agent-Reach\" /><br />Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br /><br />Language: Python<br />Stars: 81205<br />Forks: 7071",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "asgeirtj/system_prompts_leaks",
+      "summary": "<img src=\"https://repository-images.githubusercontent.com/976921297/6c0bb133-1e4f-4a4e-9570-43797d4faefe\" /><br />Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.<br /><br />Language: JavaScript<br />Stars: 66734<br />Forks: 10866",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "rlaope/oh-my-hermes",
+      "summary": "<img src=\"https://opengraph.githubassets.com/6ab697760536d079577c148bbb80f653ed00dbfb16983d0821a69208e2ab33d9/rlaope/oh-my-hermes\" /><br />All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages<br /><br />Language: Python<br />Stars: 2014<br />Forks: 161",
+      "link": "https://github.com/rlaope/oh-my-hermes",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "localsend/localsend",
+      "summary": "<img src=\"https://repository-images.githubusercontent.com/578822531/6c3c4f46-0ab9-4737-9afe-7fa7f2f929d7\" /><br />An open-source cross-platform alternative to AirDrop<br /><br />Language: Dart<br />Stars: 91289<br />Forks: 5095",
+      "link": "https://github.com/localsend/localsend",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "dani-garcia/vaultwarden",
+      "summary": "<img src=\"https://opengraph.githubassets.com/d4dcbcd98bbc3e0e958f47fd6ae2f9e58323e66d2c517e1a9016f23ee76aee4f/dani-garcia/vaultwarden\" /><br />Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs<br /><br />Language: Rust<br />Stars: 67519<br />Forks: 3212",
+      "link": "https://github.com/dani-garcia/vaultwarden",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "TauricResearch/TradingAgents",
+      "summary": "<img src=\"https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1\" /><br />TradingAgents: Multi-Agents LLM Financial Trading Framework<br /><br />Language: Python<br />Stars: 106081<br />Forks: 20302",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "ruvnet/RuView",
+      "summary": "<img src=\"https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf\" /><br />π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.<br /><br />Language: Rust<br />Stars: 93819<br />Forks: 12429",
+      "link": "https://github.com/ruvnet/RuView",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "tech-leads-club/agent-skills",
+      "summary": "<img src=\"https://opengraph.githubassets.com/b150e827e6bb86710e36ba6b5dfd9185c478c73592d8ec3cbc1b5727c635db6b/tech-leads-club/agent-skills\" /><br />The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.<br /><br />Language: TypeScript<br />Stars: 6040<br />Forks: 515",
+      "link": "https://github.com/tech-leads-club/agent-skills",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "OpenBMB/VoxCPM",
+      "summary": "<img src=\"https://opengraph.githubassets.com/0e2330902f941058d3317963c6005e72085b6762624bbb3aa1c1eddc18fbe34c/OpenBMB/VoxCPM\" /><br />VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning<br /><br />Language: Python<br />Stars: 37350<br />Forks: 4242",
+      "link": "https://github.com/OpenBMB/VoxCPM",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "huggingface/transformers",
+      "summary": "<img src=\"https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e\" /><br />🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. <br /><br />Language: Python<br />Stars: 165954<br />Forks: 34578",
+      "link": "https://github.com/huggingface/transformers",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "ever-co/ever-gauzy",
+      "summary": "<img src=\"https://repository-images.githubusercontent.com/189829392/7a1e420b-43dd-4690-ae69-a167a2b571d7\" /><br />Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co<br /><br />Language: TypeScript<br />Stars: 5941<br />Forks: 983",
+      "link": "https://github.com/ever-co/ever-gauzy",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Crosstalk-Solutions/project-nomad",
+      "summary": "<img src=\"https://opengraph.githubassets.com/3848178c4542d41fc6ddbb757fafde2e154805fa3fa0bf41ffe5b177bbf12fc0/Crosstalk-Solutions/project-nomad\" /><br />Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.<br /><br />Language: TypeScript<br />Stars: 36890<br />Forks: 3686",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "reconurge/flowsint",
+      "summary": "<img src=\"https://opengraph.githubassets.com/813e220e5eb72e034d317245184995fdf3cd31fd9e354935d7d5d8e9b154d9a5/reconurge/flowsint\" /><br />A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.<br /><br />Language: TypeScript<br />Stars: 8330<br />Forks: 1027",
+      "link": "https://github.com/reconurge/flowsint",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "peetzweg/opendisplay",
+      "summary": "<img src=\"https://opengraph.githubassets.com/88cb43436040b638c976fc9afdafee839983ff03502173dcd09ebc6ca70a9327/peetzweg/opendisplay\" /><br />Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.<br /><br />Language: Swift<br />Stars: 3542<br />Forks: 248",
+      "link": "https://github.com/peetzweg/opendisplay",
+      "published": ""
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "SnailSploit/Claude-Red",
+      "summary": "<img src=\"https://opengraph.githubassets.com/6fe8cd0e80464cac9df485d963cae63f178f8c97025c3b244c74f355b579d545/SnailSploit/Claude-Red\" /><br />claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.<br /><br />Language: Python<br />Stars: 4697<br />Forks: 631",
+      "link": "https://github.com/SnailSploit/Claude-Red",
+      "published": ""
+    }
+  ]
+}
